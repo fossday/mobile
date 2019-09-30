@@ -1,0 +1,20 @@
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="500"
+    android:fromXScale="1"
+    android:fromYScale="1"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:repeatCount="infinite"
+    android:repeatMode="reverse"
+    android:toXScale="0.5"
+    android:toYScale="0.5" />
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<scale xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:duration="200"-->
+<!--    android:scaleX="1.2"-->
+<!--    android:scaleY="1.2"-->
+<!--    android:repeatCount="infinite"-->
+<!--    android:repeatMode="reverse" />-->
+
+    <!-- ScaleX and Y 1 is 100% -->
