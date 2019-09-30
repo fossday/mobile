@@ -1,0 +1,39 @@
+<resources>
+    <!--
+
+    Aplicativo inicialmente desenvolvido por Alan Godoi da Silveira
+    https://github.com/alangodoi
+
+    -->
+
+    <string name="app_name">FOSSDay</string>
+
+    <string name="date">28 DE SETEMBRO DE 2019</string>
+    <string name="schedule">Agenda</string>
+    <string name="sponsors">Patrocinadores</string>
+    <string name="maps">Mapa</string>
+    <string name="speakers">Palestrantes</string>
+
+    <string name="hint_gift_desc">Cadastre-se e concorra à um presente exclusivo!</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_gift">Eu quero um presente!</string>
+    <string name="hint_maps">Para abrir a navegação, selecione o marcador e envie para o Google Maps.</string>
+    <string name="hint_telegram">Acesse o grupo no Telegram!</string>
+
+    <string name="msg_success_applied">Você está concorrendo à um presente exclusivo!</string>
+
+    <string name="err_empty_name">Preencha o seu nome</string>
+    <string name="err_empty_email">Preencha o seu email</string>
+    <string name="err_invalid_email">Insira um email válido</string>
+
+    <string name="btn_linkedin">LinkedIn</string>
+    <string name="btn_github">Github</string>
+    <string name="btn_facebook">Facebook</string>
+    <string name="btn_instagram">Instagram</string>
+    <string name="btn_twitter">Twitter</string>
+    <string name="btn_youtube">Youtube</string>
+
+    <string name="google_maps_key">GOOGLE_MAPS_KEY</string>
+</resources>
+

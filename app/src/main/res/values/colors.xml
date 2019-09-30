@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00974d</color>
+    <color name="colorPrimaryDark">#00974d</color>
+    <color name="colorAccent">#00adb5</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorTwo">#eeeeee</color>
+    <color name="colorBlue">#151853</color>
+    <color name="colorSplashBackground">#222831</color>
+
+    <color name="colorLinkedin">#0077B5</color>
+    <color name="colorFacebook">#3C5A99</color>
+    <color name="colorInstagram">#C13584</color>
+    <color name="colorGithub">#000000</color>
+
+</resources>
